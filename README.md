@@ -1,8 +1,8 @@
 <h1 align="center"> Tic Tac Toe </h1>
 
-A simple and fun Tic Tac Toe game built using **React**, **Vite**, and **Tailwind CSS**.
-
 ![Tic Tac Toe Screenshot](public/preview.jpeg)
+
+A simple and fun Tic Tac Toe game built using **React**, **Vite**, and **Tailwind CSS**.
 
 ## Features
 
